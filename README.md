@@ -41,10 +41,4 @@ This repository contains my coursework and module projects for the **Building Ge
 * **Objective:** Prompt engineering a personalized AI assistant tailored for career advice and coaching.
 
 
-## 🚀 Getting Started
 
-To run any of the module scripts locally using PyCharm:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Mohammed-walid/python-gen-ai-projects.git](https://github.com/Mohammed-walid/python-gen-ai-projects.git)

@@ -8,7 +8,7 @@ class ChatBot:
         self.model = AutoModelForCausalLM.from_pretrained(
             "Qwen/Qwen2.5-0.5B-Instruct",
         device_map = "auto",
-        torch_dtype = torch.float16
+        dtype=torch.float16
         )
 
         self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct")
@@ -52,7 +52,3 @@ class ChatBot:
                 print(f"Bot: {response}\n")
 
             self.conversation.append({"role": "assistant", "content": response})
-
-
-
-

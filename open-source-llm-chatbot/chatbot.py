@@ -14,13 +14,8 @@ class ChatBot:
         self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct")
         self.conversation = [{"role": "system", "content": "AI Assistant"}]
 
-    def chat(self):
-        print("Chatbot is ready!, Send 'exit' to quit")
-        while True:
-            user_input = input("\n> ")
+    def generate_reply(self, user_input):
 
-            if user_input.lower() == "exit":
-                break
 
             self.conversation.append({"role": "user", "content": user_input})
             tokenized = self.tokenizer.apply_chat_template(
@@ -49,6 +44,7 @@ class ChatBot:
                     outputs[0][tokenized["input_ids"].shape[-1]:],
                     skip_special_tokens=True
                 )
-                print(f"Bot: {response}\n")
+
 
             self.conversation.append({"role": "assistant", "content": response})
+            return response

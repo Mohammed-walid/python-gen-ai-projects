@@ -1,0 +1,1 @@
+"""Main module to run the voice assistant applicatopn"""

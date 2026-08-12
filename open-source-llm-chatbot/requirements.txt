@@ -1,6 +1,6 @@
 Flask
-Flask_Cors
+Flask-Cors
 torch
 torchvision
-torchaudio
-transformers==4.*
+transformers
+accelerate

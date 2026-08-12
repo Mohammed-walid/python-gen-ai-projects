@@ -8,7 +8,7 @@ class ChatBot:
         self.model = AutoModelForCausalLM.from_pretrained(
             "Qwen/Qwen2.5-0.5B-Instruct",
         device_map = "auto",
-        dtype=torch.float16
+        torch_dtype=torch.float16
         )
 
         self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B-Instruct")

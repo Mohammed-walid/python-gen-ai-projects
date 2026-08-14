@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 5000
 
 # configure the container to run in an executed manner
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]

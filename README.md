@@ -13,31 +13,27 @@ This repository contains my coursework and module projects for the **Building Ge
 
 ## 📂 Repository Structure
 
-### Module 1: Image Captioning with Generative AI
+### Image Captioning with Generative AI
 * **Objective:** Implementing models capable of analyzing visual data and generating descriptive captions.
 
 
-### Module 2: Create Your Own ChatGPT-Like Website
+### Create Your Own ChatGPT-Like Website
 * **Objective:** Building a functional chat interface utilizing LLMs for natural language conversation.
 
 
-### Module 3: Create a Voice Assistant
-* **Objective:** Integrating STT and TTS technologies to enable voice interactions with an AI backend.
-
-
-### Module 4: Generative AI-Powered Meeting Assistant
+### Generative AI-Powered Meeting Assistant
 * **Objective:** Developing an application to process and extract action items or insights from meeting transcripts.
 
 
-### Module 5: Summarize Your Private Data with Generative AI and RAG
+### Summarize Your Private Data with Generative AI and RAG
 * **Objective:** Enhancing LLM responses with external, private knowledge using Retrieval-Augmented Generation (RAG).
 
 
-### Module 6: Babel Fish (Universal Language Translator) with LLM and STT/TTS
+### Babel Fish (Universal Language Translator) with LLM and STT/TTS
 * **Objective:** Creating an end-to-end translation application combining audio transcription, translation, and speech synthesis.
 
 
-### Module 7: [Bonus] Build an AI Career Coach
+### [Bonus] Build an AI Career Coach
 * **Objective:** Prompt engineering a personalized AI assistant tailored for career advice and coaching.
 
 

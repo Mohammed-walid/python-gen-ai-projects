@@ -33,7 +33,7 @@ This repository contains my coursework and module projects for the **Building Ge
 * **Objective:** Creating an end-to-end translation application combining audio transcription, translation, and speech synthesis.
 
 
-### [Bonus] Build an AI Career Coach
+### Build an AI Career Coach
 * **Objective:** Prompt engineering a personalized AI assistant tailored for career advice and coaching.
 
 

@@ -25,10 +25,6 @@ This repository contains my coursework and module projects for the **Building Ge
 * **Objective:** Developing an application to process and extract action items or insights from meeting transcripts.
 
 
-### Summarize Your Private Data with Generative AI and RAG
-* **Objective:** Enhancing LLM responses with external, private knowledge using Retrieval-Augmented Generation (RAG).
-
-
 ### Babel Fish (Universal Language Translator) with LLM and STT/TTS
 * **Objective:** Creating an end-to-end translation application combining audio transcription, translation, and speech synthesis.
 

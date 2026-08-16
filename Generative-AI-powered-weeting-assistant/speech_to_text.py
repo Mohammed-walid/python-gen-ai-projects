@@ -13,4 +13,4 @@ class SpeechToText:
     def transcribe(self, audio_sample):
         audio = audio_sample
         transcription = self.pipe(audio, batch_size = 8)["text"]
-        print(transcription)
+        return transcription

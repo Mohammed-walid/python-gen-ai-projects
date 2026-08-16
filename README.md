@@ -6,10 +6,10 @@ This repository contains my coursework and module projects for the **Building Ge
 
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 3.x
-* **AI/LLM Frameworks:** LangChain, OpenAI API, Hugging Face, IBM watsonx
+* **AI/LLM Frameworks:** LangChain, OpenAI API, Hugging Face
 * **Backend Integration:** Flask, Gradio, API routing
 * **Frontend:** HTML, CSS, JavaScript 
-* **Audio Processing:** Speech-to-Text (STT) and Text-to-Speech (TTS) via OpenAI Whisper and IBM Watson Speech Libraries
+* **Audio Processing:** Speech-to-Text (STT) via OpenAI Whisper
 
 ## 📂 Repository Structure
 
@@ -23,10 +23,6 @@ This repository contains my coursework and module projects for the **Building Ge
 
 ### Generative AI-Powered Meeting Assistant
 * **Objective:** Developing an application to process and extract action items or insights from meeting transcripts.
-
-
-### Babel Fish (Universal Language Translator) with LLM and STT/TTS
-* **Objective:** Creating an end-to-end translation application combining audio transcription, translation, and speech synthesis.
 
 
 ### Build an AI Career Coach

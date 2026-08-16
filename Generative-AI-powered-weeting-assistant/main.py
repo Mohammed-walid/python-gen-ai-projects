@@ -9,5 +9,3 @@ audio.download_file(url)
 audio_name = audio.get_audio_name()
 transcriber = SpeechToText()
 transcriber.transcribe(audio_name)
-
-

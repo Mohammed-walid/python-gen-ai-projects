@@ -1,3 +1,4 @@
 from . import main
 from . import audio_downloader
-from . import transcribing_audio_files
+from . import speech_to_text
+from . import speech_to_text

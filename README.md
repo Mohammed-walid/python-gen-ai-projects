@@ -25,8 +25,4 @@ This repository contains my coursework and module projects for the **Building Ge
 * **Objective:** Developing an application to process and extract action items or insights from meeting transcripts.
 
 
-### Build an AI Career Coach
-* **Objective:** Prompt engineering a personalized AI assistant tailored for career advice and coaching.
-
-
 

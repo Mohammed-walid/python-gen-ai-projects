@@ -6,7 +6,7 @@ This repository contains my coursework and module projects for the **Building Ge
 
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python 3.x
-* **AI/LLM Frameworks:** LangChain, OpenAI API, Hugging Face
+* **AI/LLM Frameworks:**OpenAI API, Hugging Face
 * **Backend Integration:** Flask, Gradio, API routing
 * **Frontend:** HTML, CSS, JavaScript 
 * **Audio Processing:** Speech-to-Text (STT) via OpenAI Whisper
